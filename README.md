@@ -12,7 +12,7 @@ Ten years across construction, aerospace, and defense manufacturing taught me th
 
 My path into finance ran through construction estimating — five years pricing high-rise curtain wall at Walters & Wolf, including Microsoft's Sammamish Campus, Bellevue 600, and the Washington 1000 Convention Center addition. Estimating and costing are the same discipline from opposite ends: predict the cost before the work exists, control it after. CMA candidate; BS Civil Engineering (Rutgers), EIT.
 
-Available for a September 2026 start (on family leave with our newborn daughter until then). Open to Senior Cost Accountant, Senior Financial Analyst / FP&A, and finance-data roles — Seattle, north corridor, Eastside, or remote.
+Available for a September 2026 start. Open to Senior Cost Accountant, Senior Financial Analyst / FP&A, and finance-data roles — Seattle, north corridor, Eastside, or remote.
 
 ---
 
