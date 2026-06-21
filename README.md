@@ -16,6 +16,8 @@ Available for a September 2026 start (on family leave with our newborn daughter 
 
 ---
 
+**Toolbox:** SQL · Python · dbt · DuckDB · Power BI · Power Query (M) · Airflow / Cosmos · Anthropic SDK · Claude Code
+
 #### Featured — [tj-finance-portfolio](https://github.com/tjaiyen/tj-finance-portfolio) · [live case study](https://tjaiyen.github.io/tj-finance-portfolio/)
 dbt · DuckDB · Airflow / Astronomer Cosmos · Anthropic SDK · CI-validated · synthetic data
 
